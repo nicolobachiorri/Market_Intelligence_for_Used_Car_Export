@@ -123,5 +123,5 @@ Both native Gradient Boosting feature importance and aggregated LIME explanation
 
 ## Authors
 
-**Nicolò Bachiorri · Davide Francesco Caramia · Hervé Mottaran**  
+**Nicolò Bachiorri · [Davide Francesco Caramia](https://github.com/davidecar02) · Hervé Mottaran**  
 Università degli Studi di Milano-Bicocca
